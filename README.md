@@ -33,7 +33,7 @@ Revisit and perfect the essential concepts of the **C language** taught in the o
 
 ## 📂 Repository Structure
 
-All exercises are placed within the main folder, following naming conventions specified in the [subject.pdf](https://github.com/dpetrosy/C-piscine-reloaded/blob/master/subject.pdf):
+All exercises are placed within the main folder, following naming conventions specified in the [subject.pdf](https://github.com/viceda-s/c-piscine-reloaded/blob/main/en.subject.pdf):
 
 ```
 c-piscine-reloaded/
